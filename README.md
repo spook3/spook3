@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, What's up <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Thanks for visiting! ![](https://visitor-badge.glitch.me/badge?page_id=spook3.spook3)
 <!--
 **spook3/spook3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
